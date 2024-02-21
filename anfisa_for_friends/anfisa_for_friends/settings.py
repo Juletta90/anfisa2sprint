@@ -78,8 +78,8 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
-LANGUAGE_CODE = 'en-us'
+# ереключите интерфейс проекта «Анфиса для друзей» на русский язык
+LANGUAGE_CODE = 'ru-RU'   #'en-us'
 
 TIME_ZONE = 'UTC'
 
